@@ -1,0 +1,2 @@
+Before running this code, install all the necessary extension and module
+Pandas, tkccalender, Pillow,scikit-learn, pymongo, matplotlib, pydotplus,
