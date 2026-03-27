@@ -69,7 +69,7 @@ Salary Prediction/Salary_Prediction.py
 Registration GUI/New_User.py
 
 📁 Project Structure (Key Files)
-Salary-Prediction/
+```Salary-Prediction/
 ├── Login GUI/
 │   └── Salary Prediction/
 │       ├── Salary_Prediction_and_GUI.py   # Main login + prediction GUI
@@ -94,6 +94,7 @@ Salary-Prediction/
 ├── Salary_Prediction_Flowchart .png
 ├── Salary_Prediction_UML.png
 └── README.md
+```
 
 📊 Dataset
 
