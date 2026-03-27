@@ -58,9 +58,9 @@ Or directly run the full login + prediction interface:
     python "Login GUI/Salary Prediction/Salary_Prediction_and_GUI.py"
 ```
 3.  Use the GUI to:
-.  Register a new user
-.  Log in
-.  Enter job details and get a salary prediction
+- ** Register a new user
+- **Log in
+- **Enter job details and get a salary prediction
 
 
 Alternative scripts (depending on your testing needs):
@@ -110,20 +110,11 @@ Visualized decision tree saved as PNG (salarydecisiontree.png, Mydecisiontree.pn
 
 📸 Screenshots & Diagrams
 Description,Image
-System UML Diagram,"<img src=""Salary_Prediction_UML.png"" alt=""UML"">"
-MongoDB → Python Flowchart,"<img src=""Flowchart_Mongodb_to_Python.png"" alt=""Flowchart"">"
-Salary Prediction Flowchart,"<img src=""Salary_Prediction_Flowchart%20.png"" alt=""Flowchart"">"
-Decision Tree Visualization,"<img src=""salarydecisiontree.png"" alt=""Decision Tree"">"
-Planning Sketches,"<img src=""Planning1.jpg"" alt=""Planning"">"
+-  System UML Diagram,"<img src=""Salary_Prediction_UML.png"" alt=""UML"">"
+-  MongoDB → Python Flowchart,"<img src=""Flowchart_Mongodb_to_Python.png"" alt=""Flowchart"">"
+-  Salary Prediction Flowchart,"<img src=""Salary_Prediction_Flowchart%20.png"" alt=""Flowchart"">"
+-  Decision Tree Visualization,"<img src=""salarydecisiontree.png"" alt=""Decision Tree"">"
+-  Planning Sketches,"<img src=""Planning1.jpg"" alt=""Planning"">"
 
 📄 License
 This project is for educational/assessment purposes. No license specified.
-
-Made as part of Assessment-1
-Feel free to fork, improve the GUI, add more models (Random Forest, XGBoost), or connect it to a proper backend!
-Any questions or suggestions? Open an issue or reach out to the repo owner.
-
-You can copy the entire content above and paste it into your **README.md** file.  
-It will render beautifully on GitHub with proper formatting, images, and tables.  
-
-Would you like any modifications (e.g., add badges, change tone, include performance metrics from the docx, or make it shorter)? Just let me know!
