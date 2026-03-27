@@ -113,7 +113,6 @@ Visualized decision tree saved as PNG (salarydecisiontree.png, Mydecisiontree.pn
 
 | Diagram                          | Preview |
 |----------------------------------|---------|
-| **System UML Diagram**           | ![System UML Diagram](Salary_Prediction_UML.png) |
 | **Salary Prediction Flowchart**  | ![Flowchart](Salary_Prediction_Flowchart%20.png) |
 | **MongoDB to Python Flow**       | ![Flowchart](Flowchart_Mongodb_to_Python.png) |
 | **Decision Tree**                | ![Decision Tree](salarydecisiontree.png) |
