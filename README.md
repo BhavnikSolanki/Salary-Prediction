@@ -110,12 +110,12 @@ Trained on the Glassdoor dataset
 Visualized decision tree saved as PNG (salarydecisiontree.png, Mydecisiontree.png)
 
 📸 Screenshots & Diagrams
-Description,Image
--  System UML Diagram,"<img src=""Salary_Prediction_UML.png"" alt=""UML"">"
--  MongoDB → Python Flowchart,"<img src=""Flowchart_Mongodb_to_Python.png"" alt=""Flowchart"">"
--  Salary Prediction Flowchart,"<img src=""Salary_Prediction_Flowchart%20.png"" alt=""Flowchart"">"
--  Decision Tree Visualization,"<img src=""salarydecisiontree.png"" alt=""Decision Tree"">"
--  Planning Sketches,"<img src=""Planning1.jpg"" alt=""Planning"">"
-
+```Description,Image
+System UML Diagram,"<img src=""Salary_Prediction_UML.png"" alt=""UML"">"
+MongoDB → Python Flowchart,"<img src=""Flowchart_Mongodb_to_Python.png"" alt=""Flowchart"">"
+Salary Prediction Flowchart,"<img src=""Salary_Prediction_Flowchart%20.png"" alt=""Flowchart"">"
+Decision Tree Visualization,"<img src=""salarydecisiontree.png"" alt=""Decision Tree"">"
+Planning Sketches,"<img src=""Planning1.jpg"" alt=""Planning"">"
+```
 📄 License
 This project is for educational/assessment purposes. No license specified.
